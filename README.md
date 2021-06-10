@@ -1,5 +1,4 @@
-# NLP
-Natural Language Processing
+# Natural Language Processing & Deep Learning
 <p align="center"><img src="images/main.PNG" width="80%"></p>
 <p align="center"><img src="images/1.PNG" width="80%"></p>
 <p align="center"><img src="images/2.PNG" width="80%"></p>
