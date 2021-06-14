@@ -1,4 +1,4 @@
-# Natural Language Processing & Deep Learning
+# Natural Language Processing & Machine Learning
 <p align="center"><img src="images/main.PNG" width="100%"></p>
 <p align="center"><img src="images/1.PNG" width="100%"></p>
 <p align="center"><img src="images/2.PNG" width="100%"></p>
